@@ -3,11 +3,28 @@ body {
   font-family: verdana;
 }
 
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
 a {
-  background-color: white;
-  width: 160vw;
-  color: black;
-  border-radius: 20px;
+background-color: white;
+width: 160vw;
+color: black;
+border-radius: 20px;
+}
+
+.profile-name {
+text-align: center;
+color: white;
+
+padding: 5px;
+font-size: 28px;
 }
 
 .container {

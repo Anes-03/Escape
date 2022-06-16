@@ -1,40 +1,57 @@
 body {
-    background-color: black;
-    font-family: verdana;
-  }
+  background-color: black;
+  font-family: verdana;
+}
 
-  a {
-    background-color: white;
-    width: 160vw;
-    color: black;
-    border-radius: 20px;
-  }
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
 
-  .container {
-    background-color: white;
-    width: 80vw;
-    color: black;
-    border-radius: 20px;
-  }
+a {
+background-color: white;
+width: 160vw;
+color: black;
+border-radius: 20px;
+}
 
-  .container h1 {
-    font-size: 300%;
-    margin-bottom: 0;
-  }
+.profile-name {
+text-align: center;
+color: white;
 
-  .container h2 {
-    font-size: 250%;
-    margin-bottom: 0;
-  }
+padding: 5px;
+font-size: 28px;
+}
 
-  .container p {
-    font-size: 200%;
-    margin-bottom: 0;
-  }
+.container {
+  background-color: white;
+  width: 80vw;
+  color: black;
+  border-radius: 20px;
+}
 
-  .container h1,
-  .container h2,
-  .container p {
-    padding-left: 5%;
-    padding-right: 5%;
-  }
+.container h1 {
+  font-size: 300%;
+  margin-bottom: 0;
+}
+
+.container h2 {
+  font-size: 250%;
+  margin-bottom: 0;
+}
+
+.container p {
+  font-size: 200%;
+  margin-bottom: 0;
+}
+
+.container h1,
+.container h2,
+.container p {
+  padding-left: 5%;
+  padding-right: 5%;
+}
