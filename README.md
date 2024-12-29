@@ -16,3 +16,7 @@ Die Spieler durchlaufen mehrere Räume, in denen sie verschiedene Hinweise und A
 - NFC-fähige Geräte
 - HomeKit-kompatible Geräte
 - QR-Code-Scanner
+
+## Links
+Riddle 1: https://anes-03.github.io/Escape-Room-The-Picture-of-Dorian-Gray/
+Riddle 5: https://anes-03.github.io/Escape-Room-The-Picture-of-Dorian-Gray/2r2hinweis
